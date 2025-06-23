@@ -1,0 +1,8 @@
+# Do not commit raw or decrypted content
+source/
+*.log
+*.bak
+*.tmp
+__pycache__/
+*.pyc
+.env
