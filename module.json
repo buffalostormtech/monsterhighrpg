@@ -1,0 +1,15 @@
+{
+  "name": "monsterhighrpg",
+  "title": "Monster Highschool RPG",
+  "description": "Custom hybrid system for Monster High using Foundry VTT.",
+  "version": "1.0.0",
+  "author": "buffalostormtech",
+  "minimumCoreVersion": "11",
+  "compatibleCoreVersion": "11",
+  "scripts": [],
+  "styles": [],
+  "packs": [],
+  "url": "https://github.com/buffalostormtech/monsterhighrpg",
+  "manifest": "https://raw.githubusercontent.com/buffalostormtech/monsterhighrpg/main/module.json",
+  "download": "https://github.com/buffalostormtech/monsterhighrpg/archive/refs/heads/main.zip"
+}
